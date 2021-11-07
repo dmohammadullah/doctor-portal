@@ -10,7 +10,7 @@
 .info-container{
     height: 120px;
     padding: 40px;
-
+    border-radius: 5px;
 }
 .info-icon{
     font-size: 3em;
